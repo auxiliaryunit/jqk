@@ -472,6 +472,12 @@ section{
     
 }
 
+@media (max-width: 576px){
+    .index_con3{
+        background-image: url(image/index-con-bg2.jpg);
+    }
+}
+
 /* .index_con3 div,
 .index_con3 h3{
     background-image: url(image/gold.jpg);
